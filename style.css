@@ -1,0 +1,22 @@
+section {
+    text-align: center;
+    font-style: italic;
+    color: black;
+
+}
+
+table {
+    font-size: 30px;
+    font-style: italic;
+    color: black;
+    border: 2px solid black;
+    margin-left: 200px;
+}
+
+table tr th {
+    border: 1px solid black;
+}
+
+table tr td {
+    border: 1px solid black;
+}
